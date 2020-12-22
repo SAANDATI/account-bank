@@ -1,0 +1,27 @@
+/* .text {
+    float: right;
+}
+.sms {
+    float: left;
+} */
+
+/* .home_form_login_content{
+	display: inline-block;
+	vertical-align: top; 
+} */
+
+.form_col_separator{
+	display: inline-block;
+	vertical-align: top;
+	height: 350px;
+	border-left:3px solid #F0F3F4;
+	margin:0 5%;
+}
+
+.form_row_separator{
+	display: block;
+	width: 100%;
+	height: 30px;
+	background: #efefef;
+	margin:7px 0;
+}
